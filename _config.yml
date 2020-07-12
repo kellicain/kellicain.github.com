@@ -1,0 +1,19 @@
+# Site settings
+title: halfhidden
+email: hello@kellicain.com
+description: >
+  100 main st.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://halfhidden.co"
+permalink: /log/:title
+
+# Build settings
+markdown: kramdown
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"

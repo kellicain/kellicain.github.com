@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+
+{{ post.image }}
+
+<div class="col-container">
+
+	{{ post.date | date_to_long_string | downcase }} &mdash; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <br/>
+  {{post.content}}
+    
+</div>
+
+{% endfor %}
