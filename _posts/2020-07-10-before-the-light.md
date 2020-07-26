@@ -1,7 +1,6 @@
 ---
 title: before the light!
 date: 2020-07-10
-image: <img src="/images/barn.jpg" class="img-100">
 ---
 sound machines for the exploration of time and space
 
