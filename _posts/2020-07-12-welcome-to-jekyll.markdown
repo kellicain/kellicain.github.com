@@ -1,7 +1,6 @@
 ---
 title:  "welcome"
 date:   2020-07-12
-image: <iframe src="https://www.youtube.com/embed/X6eRGhMYr90" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 ---
 
 <br/>
