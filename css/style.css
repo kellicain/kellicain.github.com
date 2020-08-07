@@ -9,20 +9,20 @@ html {
 body {
   font-family: 'Roboto', sans-serif;
   color: #443e3c;
-  font-size: 15px;
+  font-size: 0.9rem;
   line-height: 1.55rem;
   color: #443e3c;
 }
 
 p {
-  max-width: 26rem;
+  /*max-width: 26rem;*/
   margin-bottom: 1rem;
   font-size: 0.9rem;
   line-height: 1.7;
 }
 
 li{
-  max-width: 26rem;
+  /*max-width: 26rem;*/
 }
 
 .center-wrapper p, .center-wrapper li{
@@ -46,6 +46,14 @@ pre {
   background-color:#eeeceb;
   padding:5px;
   padding-left:10px;
+}
+
+a {
+  color: #400080;
+}
+
+a:hover {
+  color: #6600cc;
 }
 
 .center-wrapper{
@@ -141,7 +149,8 @@ pre {
   margin-right: 2rem;
   padding-bottom: 2px;
   border-bottom: 1px solid #e0e0e0;
-  color: #443e3c;
+  color: #400080;
+  /*color: #443e3c;*/
   text-decoration: none;
 }
 
@@ -152,7 +161,7 @@ pre {
 .ui-text.ui-link.ui-link-sm {
   margin-right: 1.5rem;
   padding-bottom: 2px;
-  font-size: 10px;
+  font-size: 0.7rem;
 }
 
 .ui-text.ui-link.close-btn {
@@ -272,7 +281,7 @@ pre {
 .site-logo {
   position: static;
   width: 90px;
-  font-size: 15px;
+  font-size: 0.9rem;
   letter-spacing: 1px;
 }
 

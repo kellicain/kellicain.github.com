@@ -2,11 +2,8 @@
 layout: default
 ---
 
-<div class="col-container">
-	<h2>from the library</h2>
-</div>
-
 {% for post in site.posts %}
+  {% if post.tags contains "photo" %}
 
 <div class="col-container">
 
@@ -16,4 +13,7 @@ layout: default
     
 </div>
 
+  {% endif %}
 {% endfor %}
+
+

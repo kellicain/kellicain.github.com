@@ -1,6 +1,7 @@
 ---
 title: before the light!
 date: 2020-07-10
+tags: photo
 ---
 sound machines for the exploration of time and space
 

@@ -4,4 +4,4 @@ layout: page
 
 <img src="/images/barn.jpg">
 
-half hidden about.
+SECRET APT PAGE
