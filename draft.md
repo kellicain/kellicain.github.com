@@ -26,3 +26,9 @@ On such land the seer would feel called, impelled to perform a ritual, the natur
 
 and more text.
 
+
+
+---
+
+
+a new thing
