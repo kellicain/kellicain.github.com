@@ -15,7 +15,7 @@ In order to understand the allusion, we should try to relive an experience half 
 But what was such a feeling to a seer, to a priest-astronomer of say, 7000 BC?
 His fierce imagination was swayed and enthralled by the splendor of the revolving planets and of the constant stars upon the black vault of night. Those same essences that burned in the sky, he perceived when he hit upon some awesome, majestic spot. when in the outline of a rock, or of a tree, or of an animal he detected a luminous quality, full of freshness and grace, a swift delicate rhythm 
 
-<img src="/images/moon2.jpg" class="img-100">
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2815147456/size=small/bgcol=ffffff/linkcol=0687f5/track=1592790359/transparent=true/" seamless><a href="https://tehn.bandcamp.com/album/gnostics">gnostics by tehn</a></iframe>
 
 he recognized the essence of silvery Venus up in the sky. And thus in all the qualities of earthly things, he perceived the manifestation of some star. In fact the same essence was in turn a star, a mineral, a plant, an animal; especially certain arresting spots in the landscape were hallowed by it. They possessed that power stunningly and gloriously. The seer in such places felt the holy essence beckoning to him. Something from the depths of his being delicately leapt out towards it and communed with it.
 
