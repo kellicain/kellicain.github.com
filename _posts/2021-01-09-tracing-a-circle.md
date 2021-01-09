@@ -1,6 +1,6 @@
 ---
 title: tracing a circle...
-date: 2020-07-10
+date: 2021-01-09
 ---
 
 the outline as holy gesticulation. _notes from the library_
