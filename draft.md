@@ -1,6 +1,5 @@
 ---
-title: tracing a circle...
-date: 2020-07-10
+title: draft
 ---
 
 the outline as holy gesticulation. _notes from the library_
