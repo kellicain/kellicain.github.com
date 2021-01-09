@@ -1,6 +1,7 @@
 ---
 title: tracing a circle...
-date: 2021-01-09
+date: {}
+published: true
 ---
 
 the outline as holy gesticulation. _notes from the library_
@@ -24,10 +25,4 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 Our shabby modern language still reminds us of the intensity of those archaic events when it calls cerian places "genial" : inhabited by an unworldly being, a genie.
 
 On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above. 
-
-
-
-<img src="/images/barn.jpg" class="img-100">
-
-and more text.
 
