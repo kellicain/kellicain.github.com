@@ -1,6 +1,6 @@
 ---
 title: tracing a circle...
-date: {}
+date: 2021-01-09T00:00:00.000Z
 published: true
 ---
 
@@ -8,6 +8,7 @@ the outline as holy gesticulation. _notes from the library_
 
 "What is contemplation?
 The word derives from the root tem _to cut_. To what severance, to what separation does the word allude?
+
 
 In order to understand the allusion, we should try to relive an experience half forgotten, something most precious lying hidden beneath the psychic rubbish that modern man heaps upon his heart. if we want to call that experience back to life, we should recall the sense of awe and wonder we feel in certain strangely meaningful places.
 
