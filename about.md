@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-Half Hidden is a secret garden, expanding library, artist studio, and gathering space for a variety of esoteric and creative intentions. Beneath its main street 1970s metal facade lies an 1860s structure recently renovated with the hope of encouraging and growing more interdependent communities engaged in creative thinking, deep listening, and shared knowledge.
+_half hidden_ is a secret garden, expanding library, artist studio, and gathering space for a variety of esoteric and creative intentions. Beneath its main street 1970s metal facade lies an 1860s structure recently renovated with the hope of encouraging and growing more interdependent communities engaged in creative thinking, deep listening, and shared knowledge.
 
 
 
