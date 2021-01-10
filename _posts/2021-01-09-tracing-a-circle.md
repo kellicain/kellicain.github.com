@@ -21,3 +21,5 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 
 On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above.
 
+https://soundcloud.com/kcain/numen
+
