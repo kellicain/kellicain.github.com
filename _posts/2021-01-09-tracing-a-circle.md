@@ -19,6 +19,8 @@ The word derives from the root tem _to cut_."
 
 he recognized the essence of silvery Venus up in the sky. And thus in all the qualities of earthly things, he perceived the manifestation of some star. In fact the same essence was in turn a star, a mineral, a plant, an animal; especially certain arresting spots in the landscape were hallowed by it. They possessed that power stunningly and gloriously. The seer in such places felt the holy essence beckoning to him. Something from the depths of his being delicately leapt out towards it and communed with it. Our shabby modern language still reminds us of the intensity of those archaic events when it calls certain places "genial" : inhabited by an unworldly being, a genie.
 
-On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above.
+"On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above."
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/962749495&color=%230f0b0e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kcain" title="softbits" target="_blank" style="color: #cccccc; text-decoration: none;">softbits</a> · <a href="https://soundcloud.com/kcain/numen" title="numen" target="_blank" style="color: #cccccc; text-decoration: none;">numen</a></div>
+from _Contemplation and Action in World Religions_ essay by Elémire Zolla
+
+<audio controls><source="/file/softbits_numen.mp3" type="audio/mpeg"></audio>
