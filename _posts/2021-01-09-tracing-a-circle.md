@@ -1,6 +1,6 @@
 ---
 title: tracing a circle...
-date: {}
+date: 2021-01-09T00:00:00.000Z
 published: true
 ---
 
@@ -26,7 +26,3 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 <img src="/images/moss.jpg" class="img-100">
 
 On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above.
-
-
-
-
