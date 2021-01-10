@@ -20,7 +20,7 @@ The word derives from the root tem _to cut_."
 
 he recognized the essence of silvery Venus up in the sky. And thus in all the qualities of earthly things, he perceived the manifestation of some star. In fact the same essence was in turn a star, a mineral, a plant, an animal; especially certain arresting spots in the landscape were hallowed by it. They possessed that power stunningly and gloriously. The seer in such places felt the holy essence beckoning to him. Something from the depths of his being delicately leapt out towards it and communed with it. Our shabby modern language still reminds us of the intensity of those archaic events when it calls cerian places "genial" : inhabited by an unworldly being, a genie.
 
-<img src="/images/moss.jpg" class="img-100">
+![moss.jpg]({{site.baseurl}}/images/moss.jpg)
 
 On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above.
 
