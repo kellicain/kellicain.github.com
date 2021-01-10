@@ -25,5 +25,5 @@ from _Contemplation and Action in World Religions_ essay by Elémire Zolla
 
 <audio controls><source="/file/softbits_numen.mp3" type="audio/mpeg"></audio>
 
-a phone recorded first draft of a color of a feeling of three walls, three windows and a host of apparitions. 
+a phone recorded first draft of a color of a feeling of three walls, three windows and a host of apparitions. _numen._
 
