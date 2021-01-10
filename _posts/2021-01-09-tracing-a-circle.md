@@ -1,6 +1,6 @@
 ---
 title: tracing a circle...
-date: {}
+date: 2021-01-09T00:00:00.000Z
 published: true
 ---
 
@@ -24,3 +24,5 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 from _Contemplation and Action in World Religions_ essay by Elémire Zolla
 
 <audio controls><source="/file/softbits_numen.mp3" type="audio/mpeg"></audio>
+
+**numen**. a glitch ridden phone recorded first draft of a color of a feeling of three walls, three windows and a host of apparitions. inspired by _The Changing Light at Sandover_ by James Merrill. music by softbits
