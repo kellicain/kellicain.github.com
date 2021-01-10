@@ -26,5 +26,3 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 <img src="/images/moss.jpg" class="img-100">
 
 On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above.
-
-![210107.jpg]({{site.baseurl}}/image/210107.jpg)
