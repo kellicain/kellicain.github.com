@@ -6,6 +6,10 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
+audio {
+  width: 100%;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #443e3c;
