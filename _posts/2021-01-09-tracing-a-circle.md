@@ -25,4 +25,4 @@ from _Contemplation and Action in World Religions_ essay by Elémire Zolla
 
 <audio controls><source="/file/softbits_numen.mp3" type="audio/mpeg"></audio>
 
-**numen**. a glitch ridden phone recorded first draft of a color of a feeling of three walls, three windows and a host of apparitions. inspired by _The Changing Light at Sandover_ by James Merrill. music by softbits
+**numen**. a phone recorded first draft of a color of a feeling of three walls, three windows and a host of apparitions. inspired by _The Changing Light at Sandover_ by James Merrill. music by softbits
