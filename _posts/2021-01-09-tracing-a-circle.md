@@ -1,6 +1,6 @@
 ---
 title: tracing a circle...
-date: 2021-01-09T00:00:00.000Z
+date: {}
 published: true
 ---
 
