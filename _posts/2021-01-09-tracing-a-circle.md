@@ -21,5 +21,5 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 
 On such land the seer would feel called, impelled to perform a ritual, the natural response to a nod from above.
 
-https://soundcloud.com/kcain/numen
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/962749495&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kcain" title="kelli cain" target="_blank" style="color: #cccccc; text-decoration: none;">kelli cain</a> · <a href="https://soundcloud.com/kcain/numen" title="numen" target="_blank" style="color: #cccccc; text-decoration: none;">numen</a></div>
 
