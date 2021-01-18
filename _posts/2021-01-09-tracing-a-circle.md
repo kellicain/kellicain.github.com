@@ -24,7 +24,8 @@ he recognized the essence of silvery Venus up in the sky. And thus in all the qu
 from _Contemplation and Action in World Religions_ essay by Elémire Zolla
 
 <audio controls="controls">
-  <source="/file/softbits_numen.mp3" type="audio/mpeg">
+  <source src="/file/softbits_numen.mp3" type="audio/mpeg">
+  audio not supported.
 </audio>
 
 a phone recorded first draft of a color of a feeling of three walls, three windows and a host of apparitions. _numen._
