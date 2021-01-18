@@ -13,8 +13,8 @@ _this is my body._
 
 gnosis
 
-_knowledge_
+_knowledge._
 
 chrysopoeia
 
-_transmutation into gold_
+_transmutation into gold._
