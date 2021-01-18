@@ -7,9 +7,14 @@ one thing can be turned into another because at the deepest level they are reall
 
 ![]({{site.baseurl}}/images/ceramics1.jpg)
 
-hoc est corpus neum 
+hoc est corpus neum
+
 _this is my body._
+
 gnosis
+
 _knowledge_
+
 chrysopoeia
+
 _transmutation into gold_
