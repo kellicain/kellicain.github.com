@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2021-01-17T00:00:00.000Z
 title: ontological hocus pocus...
 ---
