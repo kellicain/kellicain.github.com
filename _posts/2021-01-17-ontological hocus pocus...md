@@ -11,4 +11,5 @@ hoc est corpus neum
 _this is my body._
 gnosis
 _knowledge_
-
+chrysopoeia
+_transmutation into gold_
