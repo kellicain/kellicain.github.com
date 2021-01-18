@@ -12,12 +12,6 @@ _half hidden_ is a secret garden, expanding library, artist studio, and gatherin
 
 
 
-The Half Hidden reading room, a comfortable living space located on the second floor currently features the ___The Mary Anna Aldrich LIbrary of the Metaphysical and Esoteric_, a collection of over 500 books spanning many curious and illuminating subject matters in a wide range of ethnographic traditions. Theosophy, Alternative Medicine, The Occult Sciences, Parapsychology, Geomancy, Neuromancy, Astrology, Shamanism - to name a few. Learn ESP and how to build a campfire. Research the wonders of castor oil and mesmerism. Explore a range of books on color psychology and practice reading auras. The library is arranged by color so that books may find you as much as you may find them. 
+The Half Hidden reading room, a comfortable living space located on the second floor currently features the _The Mary Anna Aldrich LIbrary of the Metaphysical and Esoteric_, a collection of over 500 books spanning many curious and illuminating subject matters in a wide range of ethnographic traditions. Theosophy, Alternative Medicine, The Occult Sciences, Parapsychology, Geomancy, Neuromancy, Astrology, Shamanism - to name a few. Learn ESP and how to build a campfire. Research the wonders of castor oil and mesmerism. Explore a range of books on color psychology and practice reading auras. The library is arranged by color so that books may find you as much as you may find them. 
 
-**The reading room is currently closed to visitors due to difficulties maintaining social distancing however we will re-open for visitors with scheduled private appointments beginning in the spring.** 
-
-
-
-
-
-
+**The reading room is currently closed to visitors due to difficulties maintaining social distancing however we will re-open for visitors with scheduled private appointments beginning in the spring.**
