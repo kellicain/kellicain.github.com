@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 2021-02-02T00:00:00.000Z
 ---
 "a state of mystical reverie incepted by vast abscenses." _(notes from the library)_
 
