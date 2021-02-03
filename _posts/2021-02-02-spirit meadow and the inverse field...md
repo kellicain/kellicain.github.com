@@ -11,7 +11,8 @@ notes from _Veneficium_ by Daniel A. Schulke
 
 
 
-![weaving2.jpg]({{site.baseurl}}/_images/weaving2.jpg)
+![weaving2.jpg]({{site.baseurl}}/images/weaving2.jpg)
+
 detail  _spirit meadow_ 2020. weaving. 32"x 88" silk, wool, cotton, linen
 
 the topography of dreamscape, worship, labor.  
@@ -27,4 +28,5 @@ undying.
   
 
 
-![weaving1.jpg]({{site.baseurl}}/_images/weaving1.jpg)
+![weaving1.jpg]({{site.baseurl}}/images/weaving1.jpg)
+
