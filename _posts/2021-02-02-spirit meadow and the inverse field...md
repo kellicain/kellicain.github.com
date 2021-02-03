@@ -1,6 +1,6 @@
 ---
-published: false
-date: 2021-02-02T00:00:00.000Z
+published: true
+date: {}
 ---
 "a state of mystical reverie incepted by vast abscenses." _(notes from the library)_
 
@@ -28,5 +28,3 @@ undying.
 
 
 ![weaving1.jpg]({{site.baseurl}}/_images/weaving1.jpg)
-
-
